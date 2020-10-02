@@ -23,7 +23,7 @@
 
 - **Music Player** : An implementation of a basic music player which plays local and network called music in combination with playing its lyrics alongside. It could also include a basic emotion detecting algorithm.
 
-- **Shotes** : One app for all academics. It would implement latest cryptographic technologies like chacha20-poly1305 with X25519(ECDHE) and OCR for teachers to mark their attendees by just uploading the screenshots of the participants and storing it in a highly optimized database. Also planning to implement many new technologies. [Check Repo](https://github.com/aharshit123456/Shotes)
+- **Shotes** : One app for all academics. It would implement latest cryptographic technologies like chacha20-poly1305 with X25519(ECDHE) and OCR for teachers to mark their attendees by just uploading the screenshots of the participants and storing it in a highly optimized database. It would also include a live video conferencing service where users can create rooms for live classes within the platform itself using WebRTC and other newer libraries. Also planning to implement many new technologies. [Check Repo](https://github.com/aharshit123456/Shotes)
 
 - **News Application** : An app for users to stay updated with latest news cycle. Along with special section for users to follow current stories along with being able to donate or act for the cause directly through the app. There will also be an implementation of user polls to increase user engagement while collecting user consensus on sensitive issues.
 
