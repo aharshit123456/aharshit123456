@@ -19,22 +19,21 @@
 
 ### Upcoming projects:
 
-- **Smart Gallery** : An implementation of exif data, fast CNNs to detect objects and human faces and adding them to the image encoding as tags for future reference and classification.
+- **Smart Gallery** : An implementation of optimisation of exif data, algorithms like optimized "**edge**" YOLOv4 for object detection, image segmentation and adding details to the image encoding as tags for future reference and classification, making it easier for users to know the most about their images. All of this would happen within the user's mobile so there's no need to worry about uploading images to a cloud service => Edge AI.
 
 - **Music Player** : An implementation of a basic music player which plays local and network called music in combination with playing its lyrics alongside. It could also include a basic emotion detecting algorithm.
 
-- **Shotes** : One app for all academics. It would implement latest cryptographic technologies like chacha20-poly1305 with X25519(ECDHE) and OCR for teachers to mark their attendees by just uploading the screenshots of the participants and storing it in a highly optimized database. It would also include a live video conferencing service where users can create rooms for live classes within the platform itself using WebRTC and other newer libraries. Also planning to implement many new technologies. [Check Repo](https://github.com/aharshit123456/Shotes)
+- **Shotes** : One app for all academics. It would implement latest cryptographic technologies like chacha20-poly1305 with X25519(ECDHE) and OCR for teachers to mark their attendees by just uploading the screenshots of the participants and storing it in a highly optimized database. It would also include a live video conferencing service where users can create rooms for live classes within the platform itself using WebRTC and other newer libraries. Currently i am also looking for a better method to use to allow the users to directly talk to the android app instead of only being able to talk with the browser, as it does in WebRTC. Also planning to implement many other new technologies. Open to ideas.! [Check Repo](https://github.com/aharshit123456/Shotes)
 
 - **News Application** : An app for users to stay updated with latest news cycle. Along with special section for users to follow current stories along with being able to donate or act for the cause directly through the app. There will also be an implementation of user polls to increase user engagement while collecting user consensus on sensitive issues.
 
 **All the apps mentioned above will also include dark mode with other personalized UI** for succesfully implementing the UTAUT2 model.
 
-
 ### Projects I have worked on
 
-- **Portfolio App** : It allows users to create a social media profile for showcasing their talents
+- **Portfolio App** : It allows users to create a social media profile for showcasing their talents.
 
-- **Project Chisel** : It allows users to engage in workouts and fitness while also socializing. Currenly the app has been taken down to add better features.
+- **Project Chisel** : It allows users to engage in workouts and fitness while also socializing. Currenly the app has been taken down to add better features. I am also looking into adding an AR + AI driven service which allows users to see the form and method to do a certain exercise by just pointing their cameras at it.
 
 - **Musi-Mental** : A community app for musicians and audio resource content creators. (Left Incomplete)
 
@@ -60,4 +59,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
