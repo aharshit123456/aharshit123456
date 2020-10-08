@@ -1,10 +1,10 @@
 ### Hi there, I'm Harshit Agarwal
 
-## I am a 16 y' old who loves learning new technologies
+## I am a 17 y' old who loves learning new technologies
 - :computer: I started programming as an 11 y old with Java on Netbeans
 - :fireworks: Java and Python are my developmental languages.
 - :balloon: I'm still learning the basics 
-- :bell: I'm looking to collavorate with other content creators
+- :bell: I'm looking to collaborate with other content creators
 - :new_moon_with_face: 2020 Goals: Implement many new research technologies
 - :sun_with_face: Fun fact: I love to play guitar
 - :rose: Also learning Machine Learning and Cryptography avidly
@@ -21,7 +21,7 @@
 
 - **Smart Gallery** : An implementation of optimisation of exif data, algorithms like optimized "**edge**" YOLOv4 for object detection, image segmentation and adding details to the image encoding as tags for future reference and classification, making it easier for users to know the most about their images. All of this would happen within the user's mobile so there's no need to worry about uploading images to a cloud service => Edge AI.
 
-- **Music Player** : An implementation of a basic music player which plays local and network called music in combination with playing its lyrics alongside. It could also include a basic emotion detecting algorithm.
+- **Music Player** : An implementation of a basic music player which plays local and network called music in combination with playing its lyrics alongside. It could also include a basic emotion detecting model.
 
 - **Shotes** : One app for all academics. It would implement latest cryptographic technologies like chacha20-poly1305 with X25519(ECDHE) and OCR for teachers to mark their attendees by just uploading the screenshots of the participants and storing it in a highly optimized database. It would also include a live video conferencing service where users can create rooms for live classes within the platform itself using WebRTC and other newer libraries. Currently i am also looking for a better method to use to allow the users to directly talk to the android app instead of only being able to talk with the browser, as it does in WebRTC. Also planning to implement many other new technologies. Open to ideas.! [Check Repo](https://github.com/aharshit123456/Shotes)
 
