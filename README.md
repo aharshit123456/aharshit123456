@@ -20,10 +20,7 @@
 ### Upcoming projects:
 
 - **Period Tracker (Mo Tracker)** : A Flex AI Based Period Tracker that prioritises Data Security by ways of a proper Bubble System
-
-- **Music Player** : 
-
-- **News Application** : An app for users to stay updated with latest news cycle. Along with special section for users to follow current stories along with being able to donate or act for the cause directly through the app. There will also be an implementation of user polls to increase user engagement while collecting user consensus on sensitive issues.
+- **Neuroscience related project ** : Gonna be learning different aspects of Computational Neurosciences for my planned work at GSOC 2024 in relation to HNN or Neurodenerative Disorder Diagnosis Assistance
 
 **All the apps mentioned above will also include dark mode with other personalized UI** for succesfully implementing the UTAUT2 model.
 
