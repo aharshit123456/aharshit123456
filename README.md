@@ -1,25 +1,25 @@
 ### Hi there, I'm Harshit Agarwal
 
-## I am a 19 y' old who loves learning new technologies
+## I am a 20 y' old who loves learning new technologies
 - :computer: I started programming as an 11 y old with Java on Netbeans
-- :fireworks: Java and Python are my developmental languages.
+- :fireworks: Java and Python are my core developmental languages.
 - :balloon: I'm still learning the basics 
 - :bell: I'm looking to collaborate with other researchers
 - :new_moon_with_face: 2023 Goals: Implement many new research technologies
 - :sun_with_face: Fun fact: I love to play guitar
-- :rose: Also learning  Machine Learning and Cryptography avidly
+- 😄 Working towards Computational Neuroscience
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 ### Upcoming projects:
 
-- **Period Tracker (Mo Tracker)** : A Flex AI Based Period Tracker that prioritises Data Security by ways of a proper Bubble System
+- **Period Tracker (Mo Tracker)** : A Flex AI Based Period Tracker that prioritises Data Security by ways of a Bubble System
 - **Neuroscience related project ** : Gonna be learning different aspects of Computational Neurosciences for my planned work at GSOC 2024 in relation to HNN or Neurodenerative Disorder Diagnosis Assistance
 
 **All the apps mentioned above will also include dark mode with other personalized UI** for succesfully implementing the UTAUT2 model.
@@ -28,7 +28,11 @@
 
 - **Portfolio App** : It allows users to create a social media profile for showcasing their talents.
 
+- **Shotes** : An app that initially started as a means to share and access notes but later evolved into an online social app for education for schools and colleges. Only UI/UX, implementation incomplete.
+
 - **Project Chisel** : It allows users to engage in workouts and fitness while also socializing. Currenly the app has been taken down to add better features. I am also looking into adding an AR + AI driven service which allows users to see the form and method to do a certain exercise by just pointing their cameras at it.
+
+Update: Dropped the project after experimenting multiple features on it and loosing interest.
 
 - **Personal Portfolio** : [Go to the website](aharshit123456.github.io) WILL REDEISGN IT
 
