@@ -30,6 +30,11 @@
 
 - **Shotes** : An app that initially started as a means to share and access notes but later evolved into an online social app for education for schools and colleges. Only UI/UX, implementation incomplete.
 
+- **Android Apps for Portfolio** :
+  1. **Instagram Clone**
+  2. **To-do List App**
+  3. **Calculator**
+
 - **Project Chisel** : It allows users to engage in workouts and fitness while also socializing. Currenly the app has been taken down to add better features. I am also looking into adding an AR + AI driven service which allows users to see the form and method to do a certain exercise by just pointing their cameras at it.
 
 Update: Dropped the project after experimenting multiple features on it and loosing interest.
