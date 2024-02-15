@@ -19,7 +19,7 @@
 
 ### Upcoming projects:
 
-- **Period Tracker (Mo Tracker)** : A Flex AI Based Period Tracker that prioritises Data Security by ways of a Bubble System
+- **Period Tracker (Mo Tracker)** : An ML based Period Tracker that prioritises Data Security
 - **Neuroscience related project ** : Gonna be learning different aspects of Computational Neurosciences for my planned work at GSOC 2024 in relation to HNN or Neurodenerative Disorder Diagnosis Assistance
 
 **All the apps mentioned above will also include dark mode with other personalized UI** for succesfully implementing the UTAUT2 model.
