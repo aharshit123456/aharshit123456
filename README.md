@@ -46,13 +46,19 @@ Update: Dropped the project after experimenting multiple features on it and loos
 
 ![aharshit123456's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aharshit123456&theme=highcontrast&hide_border=true)
 
+[Click here to see my resume](https://drive.google.com/file/d/1PT_iEbVU8mwAR-aXn1qALbrhL2bDS6lf/view?usp=sharing)
+
 <br/>
+
 - **Personal Portfolio** : [Go to the website](aharshit123456.github.io) WILL REDEISGN IT
+
+Since you made it this far into my GitHub, [here's a micro-film](https://drive.google.com/file/d/1sMRc2CpeTGtSUxQjKfghozH8OT6EPish/view?usp=drive_link) I made when I wasn't able to sleep a few years ago. P.s., some say that Premiere Pro is still rendering.
 
 [website]: https://aharshit123456.github.io
 [twitter]: https://twitter.com/aharshit123456
 [instagram]: https://instagram.com/aharshit123456
 [linkedin]: https://linkedin.com/in/aharshit123456
+
 
 <!--
 **aharshit123456/aharshit123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
