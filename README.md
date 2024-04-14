@@ -43,6 +43,7 @@
 Update: Dropped the project after experimenting multiple features on it and loosing interest.
 
 <br />
+
 ![aharshit123456's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aharshit123456&theme=highcontrast&hide_border=true)
 
 <br/>
