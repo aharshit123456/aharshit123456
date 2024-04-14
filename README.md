@@ -17,6 +17,9 @@
 
 <br />
 
+![aharshit123456's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aharshit123456&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+<br />
 ### Upcoming projects:
 
 - **Period Tracker (Mo Tracker)** : An ML based Period Tracker that prioritises Data Security
@@ -39,6 +42,10 @@
 
 Update: Dropped the project after experimenting multiple features on it and loosing interest.
 
+<br />
+![aharshit123456's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aharshit123456&theme=highcontrast&hide_border=true)
+
+<br/>
 - **Personal Portfolio** : [Go to the website](aharshit123456.github.io) WILL REDEISGN IT
 
 [website]: https://aharshit123456.github.io
