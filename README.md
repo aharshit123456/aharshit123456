@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshit Agarwal
 
-## I am a 20 y' old who loves learning new technologies
+## I am a 21 y' old who loves learning new technologies
 - :computer: I started programming as an 11 y old with Java on Netbeans
 - :fireworks: Java and Python are my core developmental languages.
 - :balloon: I'm still learning the basics 
