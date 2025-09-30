@@ -20,6 +20,14 @@
 ![aharshit123456's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aharshit123456&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 <br />
+
+### Currently Working On:
+
+- **GaitSetPy** : Working with [@Alohomora-Labs](https://github.com/Alohomora-Labs/gaitSetPy) on gait recognition and analysis
+- **shoppin.app** : [shoppin.app](https://shoppin.app/) - Modern shopping application
+- **cosq.in** : [cosq.in](https://cosq.in/) - Innovative platform
+
+<br />
 ### Upcoming projects:
 
 - **Period Tracker (Mo Tracker)** : An ML based Period Tracker that prioritises Data Security
