@@ -60,6 +60,9 @@ Since you made it this far into my GitHub, [here's a micro-film](https://drive.g
 [linkedin]: https://linkedin.com/in/aharshit123456
 
 
+[![An image of @aharshit123456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aharshit123456)](https://holopin.io/@aharshit123456)
+
+
 <!--
 **aharshit123456/aharshit123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
