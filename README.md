@@ -1,80 +1,116 @@
-### Hi there, I'm Harshit Agarwal
+<div align="center">
 
-## I am a 21 y' old who loves learning new technologies
-- :computer: I started programming as an 11 y old with Java on Netbeans
-- :fireworks: Java and Python are my core developmental languages.
-- :balloon: I'm still learning the basics 
-- :bell: I'm looking to collaborate with other researchers
-- :new_moon_with_face: 2023 Goals: Implement many new research technologies
-- :sun_with_face: Fun fact: I love to play guitar
-- 😄 Working towards Computational Neuroscience
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=300&section=header&text=Harshit%20Agarwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Researcher%20%7C%20System%20Architect&descAlignY=55&descSize=20)
 
-### Connect with me:
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="nstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aharshit123456.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aharshit123456)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aharshit123456)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://aharshit123456.github.io/resume.pdf)
 
-<br />
+</div>
 
-![aharshit123456's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aharshit123456&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+---
 
-<br />
-### Upcoming projects:
+### :rocket: About Me
 
-- **Period Tracker (Mo Tracker)** : An ML based Period Tracker that prioritises Data Security
-- **Neuroscience related project ** : Gonna be learning different aspects of Computational Neurosciences for my planned work at GSOC 2024 in relation to HNN or Neurodenerative Disorder Diagnosis Assistance
+I'm a **Fullstack Developer** and **AI Researcher** based in India, currently serving as the **Founding SDE (AI & Systems)** at **endorphind** and **Research Lead** at **Alohomora Labs**.
 
-**All the apps mentioned above will also include dark mode with other personalized UI** for succesfully implementing the UTAUT2 model.
+My passion lies in building scalable systems and bridging the gap between biological intelligence and computational models. I love creating dynamic, creative products from start to finish, ranging from low-level C++ optimizations to high-level Distributed Systems.
 
-### Projects I have worked on
+> *"Not everyone who works hard is rewarded, but all those who succeed have worked hard."* — Genji Kamogawa
 
-- **Portfolio App** : It allows users to create a social media profile for showcasing their talents.
+- :telescope: **Currently working on:** Generative Video AI pipelines & Gait Analysis systems.
+- :seedling: **Learning:** Advanced Computational Neuroscience (HNN) & Agentic AI.
+- :briefcase: **Experience:** Founder/CTO at multiple ventures, AI Researcher, and Systems Engineer.
+- :guitar: **Hobbies:** Guitarist, Digital Artist, and avid Boxer/Kickboxer.
 
-- **Shotes** : An app that initially started as a means to share and access notes but later evolved into an online social app for education for schools and colleges. Only UI/UX, implementation incomplete.
+---
 
-- **Android Apps for Portfolio** :
-  1. **Instagram Clone**
-  2. **To-do List App**
-  3. **Calculator**
+### :briefcase: Work Experience
 
-- **Project Chisel** : It allows users to engage in workouts and fitness while also socializing. Currenly the app has been taken down to add better features. I am also looking into adding an AR + AI driven service which allows users to see the form and method to do a certain exercise by just pointing their cameras at it.
+| Period | Role | Company | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Jan 2026 - Present** | **Founding SDE (AI & Systems)** | `endorphind` | Engineered SOTA lip-sync/video gen pipelines (Wan 2.2, LatentSync). Led system design for intern team. |
+| **Jan 2025 - Present** | **Research Lead** | `Alohomora Labs` | Leading `gaitSetPy` development (gait analysis pkg). Researching Parkinson's detection using CNNs/LSTMs. |
+| **Dec 2024 - Nov 2025** | **Founding ML Engineer** | `shoppin'` | Built multimodal AI stack (CLIP/VLLM) for 3-4cr items. Architected AWS EKS clusters & scraping agents. |
+| **May 2024 - Nov 2024** | **Research Intern** | `SMLab, NISER` | Built drone sensor calibration systems & web consoles for self-driving vehicles (ROS2). |
 
-Update: Dropped the project after experimenting multiple features on it and loosing interest.
+---
 
-<br />
+### :hammer_and_wrench: Tech Stack
 
-![aharshit123456's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aharshit123456&theme=highcontrast&hide_border=true)
+<div align="left">
 
-[Click here to see my resume](https://drive.google.com/file/d/1PT_iEbVU8mwAR-aXn1qALbrhL2bDS6lf/view?usp=sharing)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & AI**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
+
+---
+
+### :computer: Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **WHAM! OTT** | Hybird Playback video engine with immersive "Living Comic Book" design and scalable FastAPI backend. | `React 18` `FastAPI` `HLS` |
+| **PreviouslyOn** | Social TV tracking app (Letterboxd for TV) with real-time feeds and Gemini AI recommendations. | `Next.js` `Supabase` `AI` |
+| **gaitSetPy** | Python package for gait analysis with 50+ preprocessing functions, reducing processing time by 40%. | `Python` `Research` |
+| **NVD Toolkit** | Vulnerability exploitability prediction using DistilBERT/GPT-2 (85.6% accuracy). **Paper accepted in ICANTCI 2025**. | `HuggingFace` `PyTorch` |
+| **CosQ.in** | Tech platform for **CosQ Entertainments**, managing community operations for large-scale pop-culture events. | `Web` `Ops` |
+
+<details>
+<summary>⚡ <strong>Hackathons & More (Click to expand)</strong></summary>
+<br>
+
+- **Moonshadows (SIH 2024):** Team Lead for lunar region enhancement project.
+- **Drive Pal:** AR/VR Vehicle rental service using Photogrammetry.
+- **Attorney Juniors (SIH 2023):** Gamified legal awareness platform (Team Lead).
+- **Pentathon 1.0 (CTF):** Ranked 95/5500+ in nationwide government CTF.
+- **Way Through Films:** Founder of an independent production house (Docu-series & Micro-experiments).
+
+</details>
+
+---
+
+### :bar_chart: GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aharshit123456&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharshit123456&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="langs" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aharshit123456&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://holopin.io/@aharshit123456">
+  <img src="https://holopin.me/aharshit123456" alt="Holopin Badges" />
+</a>
 
 <br/>
+<br/>
 
-- **Personal Portfolio** : [Go to the website](aharshit123456.github.io) WILL REDEISGN IT
+> *"Since you made it this far, [here's a micro-film](https://drive.google.com/file/d/1sMRc2CpeTGtSUxQjKfghozH8OT6EPish/view?usp=drive_link) I made when I wasn't able to sleep a few years ago. P.S., some say Premiere Pro is still rendering..."*
 
-Since you made it this far into my GitHub, [here's a micro-film](https://drive.google.com/file/d/1sMRc2CpeTGtSUxQjKfghozH8OT6EPish/view?usp=drive_link) I made when I wasn't able to sleep a few years ago. P.s., some say that Premiere Pro is still rendering.
-
-[website]: https://aharshit123456.github.io
-[twitter]: https://twitter.com/aharshit123456
-[instagram]: https://instagram.com/aharshit123456
-[linkedin]: https://linkedin.com/in/aharshit123456
-
-
-[![An image of @aharshit123456's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aharshit123456)](https://holopin.io/@aharshit123456)
-
-
-<!--
-**aharshit123456/aharshit123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+</div>
