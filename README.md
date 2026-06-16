@@ -30,7 +30,7 @@ My passion lies in building scalable systems and bridging the gap between biolog
 
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Mar 2026 - Present** | **Tech Lead** | `famcare.co.in` | Architected and built a holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru: FastAPI backend (asyncpg, Redis), Riverpod Flutter consumer app, Next.js admin, and React/Capacitor caretaker app. |
+| **Mar 2026 - Present** | **Tech Lead / Fullstack Architect** | `famcare.co.in` | Built a holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru. Engineered a modular monolith backend with 15+ decoupled services handling 2k+ req/min, alongside Flutter client, Capacitor caretaker app, and Next.js admin portal. |
 | **Jan 2026 - Present** | **Founding SDE (AI & Systems)** | `endorphind` | Engineered SOTA lip-sync/video gen pipelines (Wan 2.2, LatentSync). Led system design for intern team. |
 | **Jan 2025 - Present** | **Research Lead** | `Alohomora Labs` | Leading `gaitSetPy` development (gait analysis pkg). Researching Parkinson's detection using CNNs/LSTMs. |
 | **Dec 2024 - Nov 2025** | **Founding ML Engineer** | `shoppin'` | Built multimodal AI stack (CLIP/VLLM) for 3-4cr items. Architected AWS EKS clusters & scraping agents. |
@@ -73,6 +73,7 @@ My passion lies in building scalable systems and bridging the gap between biolog
 | :--- | :--- | :--- |
 | **famcare.co.in** | Holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru. Consists of a FastAPI API, Flutter client, Capacitor caretaker app, and Next.js admin panel. | `FastAPI` `Flutter` `Next.js` `Capacitor` |
 | **WHAM! OTT** | Hybrid Playback video engine with immersive "Living Comic Book" design and scalable FastAPI backend. | `React 18` `FastAPI` `HLS` |
+| **ORB-SLAM3** | High-accuracy Visual-Inertial SLAM (Simultaneous Localization and Mapping) library for real-time tracking. | `C++` `ROS` `Computer Vision` |
 | **PreviouslyOn** | Social TV tracking app (Letterboxd for TV) with real-time feeds and Gemini AI recommendations. | `Next.js` `Supabase` `AI` |
 | **gaitSetPy** | Python package for gait analysis with 50+ preprocessing functions, reducing processing time by 40%. | `Python` `Research` |
 | **NVD Toolkit** | Vulnerability exploitability prediction using DistilBERT/GPT-2 (85.6% accuracy). **Paper accepted in ICANTCI 2025**. | `HuggingFace` `PyTorch` |
