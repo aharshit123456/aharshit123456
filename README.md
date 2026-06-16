@@ -13,13 +13,13 @@
 
 ### :rocket: About Me
 
-I'm a **Fullstack Developer** and **AI Researcher** based in India, currently serving as the **Founding SDE (AI & Systems)** at **endorphind** and **Research Lead** at **Alohomora Labs**.
+I'm a **Fullstack Developer** and **AI Researcher** based in India, currently serving as the **Tech Lead** at **famcare.co.in**, **Founding SDE (AI & Systems)** at **endorphind**, and **Research Lead** at **Alohomora Labs**.
 
 My passion lies in building scalable systems and bridging the gap between biological intelligence and computational models. I love creating dynamic, creative products from start to finish, ranging from low-level C++ optimizations to high-level Distributed Systems.
 
 > *"Not everyone who works hard is rewarded, but all those who succeed have worked hard."* — Genji Kamogawa
 
-- :telescope: **Currently working on:** Generative Video AI pipelines & Gait Analysis systems.
+- :telescope: **Currently working on:** Eldercare platform infrastructure, Generative Video AI pipelines & Gait Analysis systems.
 - :seedling: **Learning:** Advanced Computational Neuroscience (HNN) & Agentic AI.
 - :briefcase: **Experience:** Founder/CTO at multiple ventures, AI Researcher, and Systems Engineer.
 - :guitar: **Hobbies:** Guitarist, Digital Artist, and avid Boxer/Kickboxer.
@@ -30,6 +30,7 @@ My passion lies in building scalable systems and bridging the gap between biolog
 
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
+| **Mar 2026 - Present** | **Tech Lead** | `famcare.co.in` | Architected and built a holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru: FastAPI backend (asyncpg, Redis), Riverpod Flutter consumer app, Next.js admin, and React/Capacitor caretaker app. |
 | **Jan 2026 - Present** | **Founding SDE (AI & Systems)** | `endorphind` | Engineered SOTA lip-sync/video gen pipelines (Wan 2.2, LatentSync). Led system design for intern team. |
 | **Jan 2025 - Present** | **Research Lead** | `Alohomora Labs` | Leading `gaitSetPy` development (gait analysis pkg). Researching Parkinson's detection using CNNs/LSTMs. |
 | **Dec 2024 - Nov 2025** | **Founding ML Engineer** | `shoppin'` | Built multimodal AI stack (CLIP/VLLM) for 3-4cr items. Architected AWS EKS clusters & scraping agents. |
@@ -70,7 +71,8 @@ My passion lies in building scalable systems and bridging the gap between biolog
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **WHAM! OTT** | Hybird Playback video engine with immersive "Living Comic Book" design and scalable FastAPI backend. | `React 18` `FastAPI` `HLS` |
+| **famcare.co.in** | Holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru. Consists of a FastAPI API, Flutter client, Capacitor caretaker app, and Next.js admin panel. | `FastAPI` `Flutter` `Next.js` `Capacitor` |
+| **WHAM! OTT** | Hybrid Playback video engine with immersive "Living Comic Book" design and scalable FastAPI backend. | `React 18` `FastAPI` `HLS` |
 | **PreviouslyOn** | Social TV tracking app (Letterboxd for TV) with real-time feeds and Gemini AI recommendations. | `Next.js` `Supabase` `AI` |
 | **gaitSetPy** | Python package for gait analysis with 50+ preprocessing functions, reducing processing time by 40%. | `Python` `Research` |
 | **NVD Toolkit** | Vulnerability exploitability prediction using DistilBERT/GPT-2 (85.6% accuracy). **Paper accepted in ICANTCI 2025**. | `HuggingFace` `PyTorch` |
