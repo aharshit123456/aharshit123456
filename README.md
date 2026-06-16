@@ -30,7 +30,7 @@ My passion lies in building scalable systems and bridging the gap between biolog
 
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
-| **Mar 2026 - Present** | **Tech Lead / Fullstack Architect** | `famcare.co.in` | Built a holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru. Engineered a modular monolith backend with 15+ decoupled services (FastAPI/asyncpg/Redis) handling 2k+ req/min, integrated SpringVerify & Razorpay, and launched Flutter & React/Capacitor client apps with Fastlane CI/CD. |
+| **Mar 2026 - Present** | **Tech Lead / Fullstack Architect** | `famcare.co.in` | Built a holistic on-demand & scheduled care platform (elder, baby, child, pet) in Whitefield, Bengaluru. Engineered a modular monolith backend with 15+ decoupled services (FastAPI/asyncpg/Redis) handling 2k+ req/min, integrated SpringVerify & Razorpay, and launched Flutter & React/Capacitor client apps with Fastlane CI/CD. Mentoring and managing a team of 4-6 software engineering interns. |
 | **Jan 2026 - Present** | **Founding SDE (AI & Systems)** | `endorphind` | Engineered SOTA generative video and lip-sync pipelines (Wan 2.2, LatentSync). Developed custom ComfyUI nodes for automated media generation, and led technical scoping and workflow optimization. |
 | **Jan 2025 - Present** | **Research Lead** | `Alohomora Labs` | Leading `gaitSetPy` development (gait analysis pkg). Researching Parkinson's detection using CNNs/LSTMs. |
 | **Dec 2024 - Nov 2025** | **Founding ML Engineer (AI/Infra)** | `shoppin'` | Built multimodal AI stack (YOLO, RT-DETR, MaskRCNN, CLIP) for 3-4cr catalog items. Deployed ML systems on AWS SageMaker and architected EKS clusters using Terraform, GitOps, and Rancher. |
