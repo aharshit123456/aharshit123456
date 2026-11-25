@@ -2,10 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4A00E0,8E2DE2&height=300&section=header&text=Harshit%20Agarwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Researcher%20%7C%20System%20Architect&descAlignY=55&descSize=20)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aharshit123456.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-8E2DE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.aharshit123456.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aharshit123456)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aharshit123456)
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://aharshit123456.github.io/resume.pdf)
+[![Blog](https://img.shields.io/badge/Blog-Read-2ECC71?style=for-the-badge&logo=rss&logoColor=white)](https://www.aharshit123456.space/blog)
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://www.aharshit123456.space/resume.pdf)
 
 </div>
 
@@ -90,6 +91,18 @@ My passion lies in building scalable systems and bridging the gap between biolog
 - **Way Through Films:** Founder of an independent production house (Docu-series & Micro-experiments).
 
 </details>
+
+---
+
+### :pencil: Writing: Building FamCare
+
+Long-form engineering case studies from building [famcare.co.in](https://famcare.co.in):
+
+- **[A Voice Agent That Only Drafts](https://www.aharshit123456.space/blog/famcare-voice-agent)**: parents talk for three minutes, an LLM drafts the child's care profile, and nothing is saved until a parent confirms it. Cost model, evals, fallbacks.
+- **[A Care Marketplace on One Boring Backend](https://www.aharshit123456.space/blog/famcare-system-design)**: one FastAPI backend, four apps, a booking state machine with physical guards, Terraform import with zero drift, OTA patches.
+- **[Honest Slots, Priced Idle Time](https://www.aharshit123456.space/blog/famcare-slots-and-pricing)**: one eligibility rule shared by six code paths, 270 YAML scenarios on a real database, price drops and evening flash sales.
+
+More on the [blog](https://www.aharshit123456.space/blog) ([RSS](https://www.aharshit123456.space/feed.xml)).
 
 ---
 
